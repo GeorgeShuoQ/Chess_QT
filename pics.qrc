@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/fboard.jpg</file>
+        <file>pics/fdark.jpg</file>
+        <file>pics/fdark_bdot.jpg</file>
+        <file>pics/fdark_wdot.jpg</file>
+        <file>pics/flight.jpg</file>
+        <file>pics/flight_bdot.jpg</file>
+        <file>pics/flight_wdot.jpg</file>
+        <file>pics/piece_1.jpg</file>
+        <file>pics/piece_1.png</file>
+        <file>pics/piece_2.jpg</file>
+        <file>pics/piece_2.png</file>
+        <file>pics/piece_3.jpg</file>
+        <file>pics/piece_3.png</file>
+        <file>pics/piece_4.jpg</file>
+        <file>pics/piece_4.png</file>
+        <file>pics/piece_5.jpg</file>
+        <file>pics/piece_5.png</file>
+        <file>pics/piece_6.jpg</file>
+        <file>pics/piece_6.png</file>
+        <file>pics/piece_7.jpg</file>
+        <file>pics/piece_7.png</file>
+        <file>pics/piece_8.jpg</file>
+        <file>pics/piece_8.png</file>
+        <file>pics/piece_9.jpg</file>
+        <file>pics/piece_9.png</file>
+        <file>pics/piece_10.jpg</file>
+        <file>pics/piece_10.png</file>
+        <file>pics/piece_11.jpg</file>
+        <file>pics/piece_11.png</file>
+        <file>pics/piece_12.jpg</file>
+        <file>pics/piece_12.png</file>
+        <file>pics/f_bdot.png</file>
+        <file>pics/f_wdot.png</file>
+        <file>pics/Promotion_background.png</file>
+        <file>pics/fboard.png</file>
+        <file>pics/bbk.png</file>
+    </qresource>
+</RCC>
